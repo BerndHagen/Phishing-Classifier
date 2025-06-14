@@ -221,4 +221,4 @@ The screenshots below provide an overview of how the application looks when you 
 
 | Classifier - Confusion Matrix       | Classifier - Classification Report     | Classifier - User Feedback        |
 |------------------------------|-----------------------------|-----------------------------|
-| <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-matrix.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-report.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-feedback.png" width="300px"> |
+| <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-matrix.png?v=2" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-report.png?v=2" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-feedback.png?v=2" width="300px"> |
