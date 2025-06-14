@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/a5280c83237807cda12876892ffdaedea6e2b4b5/img_python_file.png" alt="Phishing Classifier Logo" width="128" />
+  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/ddb719d0acec06f76b133615e476c562800c7d2d/img/img_python_file.png" alt="Phishing Classifier Logo" width="128" />
 </p>
 <h1 align="center">Phishing Classifier</h1>
 <p align="center">
@@ -201,7 +201,7 @@ The classification report shows **individual message analysis** with interactive
 Each message gets analyzed with the model's prediction clearly shown alongside options for user validation. The system shows classification results with confidence levels, so users can verify accuracy and provide corrections when needed.
 
 <p align="center">
-  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/f04a25e8a2343762851e7d352034052fc97261f5/img_classification_report.png" alt="Classification Report" width="350" />
+  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/ddb719d0acec06f76b133615e476c562800c7d2d/img/img_classification_report.png" alt="Classification Report" width="350" />
 </p>
 
 **Interactive Feedback Example:** The message *"Just landed in New York. I'll give you a call once I'm settled in at the hotel. Maybe we can meet up for dinner if you would like? Let me know if you're around."* is classified as **"No Threat Detected"** with user feedback confirming this is correct.
