@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/608c4c06dd2e9c1d5691a9b1c4b7f7b61df6268b/img/img_v1.0.0-file.png" alt="Phishing Classifier Logo" width="128" />
+  <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/bb3129803b797e3a727027fed4795fea18a67eac/img/img_v1.0.0-file.png" alt="Phishing Classifier Logo" width="128" />
 </p>
 <h1 align="center">Phishing Classifier</h1>
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://github.com/BerndHagen/Phishing-Classifier/releases"><img src="https://img.shields.io/github/v/release/BerndHagen/Phishing-Classifier?include_prereleases&style=flat-square&color=CD853F" alt="Latest Release"></a>&nbsp;&nbsp;<a href="https://github.com/BerndHagen/Phishing-Classifier/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3.13+-blue?style=flat-square" alt="Python Version">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square" alt="Platform">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status">&nbsp;&nbsp;<a href="https://github.com/BerndHagen/Phishing-Classifier/issues"><img src="https://img.shields.io/github/issues/BerndHagen/Phishing-Classifier?style=flat-square" alt="Open Issues"></a>
 </p>
 
-**Phishing Classifier** is a machine learning tool I built to detect phishing emails. It works well for both personal use and larger email systems, helping identify fraudulent emails before they cause problems. The system uses natural language processing and pattern analysis to catch phishing attempts more effectively than general-purpose AI tools.
+**Phishing Classifier** is an open-source machine learning tool I built to detect phishing emails. It's freely available for anyone to use and works well for both personal use and larger email systems, helping identify fraudulent emails before they cause problems. The system uses natural language processing and pattern analysis to catch phishing attempts more effectively than general-purpose AI tools.
 
 ### **Key Features**
 
@@ -207,7 +207,7 @@ Each message gets analyzed with the model's prediction clearly shown alongside o
 
 ## **License & Disclaimer**
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BerndHagen/Phishing-Classifier/blob/main/LICENSE) file for details. This is a completed academic/research project that demonstrates phishing email classification techniques. The project is provided as-is for educational purposes and reference.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/BerndHagen/Phishing-Classifier/blob/main/LICENSE) file for details. This is a completed project that demonstrates phishing email classification techniques. The project is provided as-is for educational purposes and reference.
 
 - This tool is for educational and research purposes only
 - Always implement multiple layers of security in production environments
@@ -221,4 +221,4 @@ The screenshots below provide an overview of how the application looks when you 
 
 | Classifier - Confusion Matrix       | Classifier - Classification Report     | Classifier - User Feedback        |
 |------------------------------|-----------------------------|-----------------------------|
-| <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/38c0d3ee60fbf24b0eee2b0d4eebe8916d6694ae/img/img_v1.0.0-matrix.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/38c0d3ee60fbf24b0eee2b0d4eebe8916d6694ae/img/img_v1.0.0-report.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/blob/608c4c06dd2e9c1d5691a9b1c4b7f7b61df6268b/img/img_v1.0.0-feedback.png" width="300px"> |
+| <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-matrix.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-report.png" width="300px"> | <img src="https://github.com/BerndHagen/Phishing-Classifier/raw/main/img/img_v1.0.0-feedback.png" width="300px"> |
